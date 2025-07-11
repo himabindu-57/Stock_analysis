@@ -38,14 +38,14 @@ The dataset was obtained from a YouTube channel (credit to the original creator)
 * Creating interactive elements using Data Validation
 * Visualizing stock performance comparison effectively
 
-🚀 Future Improvements (Optional)
+🚀 Future Improvements
 
 * Add more companies for comparison
 * Include additional indicators like CAGR, ROI, or Volume
 * Create a dashboard layout with slicers
 * Automate data import from online sources
 
-📌 Author Note
+📌 My Note
 
 This project is part of my learning journey in **Excel for data analysis and visualization**. Feedback and suggestions are welcome!
 
